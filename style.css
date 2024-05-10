@@ -1,0 +1,132 @@
+body {
+    background-color: lightyellow;
+}
+
+#Title {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 100;
+}
+#Instructions {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25;
+}
+.Start {
+   background-color: black;
+   color: white;
+   font-size: 40;
+   border-radius: 10px;
+   transition-duration: 0.5s;
+}
+.Start:hover {
+    background-color: white;
+    color: black;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.Start:active {
+    background-color: grey;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+.container {
+    height: 200px;
+    position: relative;
+  }
+  
+.vertical-center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 45%;
+    -ms-transform: translateY(-50%, -45%);
+    transform: translateY(-50%, -45%);
+  }
+#first {
+    background-color: lightblue;
+}
+.images {
+    height: 200px;
+    position: relative;
+}
+.vertical-center_images {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 25%;
+    -ms-transform: translateY(-50%, -25%);
+    transform: translateY(-50%, -25%);
+  }
+  .image {
+    width: 800px;
+  }
+.question {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+.answer {
+    text-align: center;
+    border-radius: 20px;
+    font-size: 30px;
+}
+#second {
+    background-color: lightgreen;
+}
+#third {
+    background-color: lightpink;
+}
+#fourth {
+    background-color: lightseagreen;
+}
+#fifth {
+    background-color: lightgoldenrodyellow;
+}
+#sixth {
+    background-color: lightsteelblue;
+}
+#seventh {
+    background-color: lightslategrey;
+}
+#eighth {
+    background-color: lightsalmon;
+}
+#ninth {
+    background-color: darkturquoise;
+}
+#tenth {
+    background-color: darkseagreen;
+}
+#eleventh {
+    background-color: darkviolet;
+}
+#twelfth {
+    background-color: darkkhaki;
+}
+#thirteenth {
+    background-color: silver;
+}
+#fourteenth {
+    background-color: chocolate;
+}
+#fifteenth {
+    background-color: cornflowerblue;
+}
+#sixteenth {
+    background-color: firebrick;
+}
+#seventeenth {
+    background-color: lawngreen;
+}
+#eighteenth {
+    background-color: lemonchiffon;
+}
+#nineteenth {
+    background-color: mediumaquamarine;
+}
+#twentieth {
+    background-color: mediumslateblue;
+}
+#last {
+    background-color: snow;
+}
